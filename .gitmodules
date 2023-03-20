@@ -1,0 +1,3 @@
+[submodule "pf2e"]
+	path = pf2e
+	url = https://github.com/foundryvtt/pf2e

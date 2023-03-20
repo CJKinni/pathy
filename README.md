@@ -39,3 +39,8 @@ The bot is using ChatGPT, which is only trained on data from before 2021.  The b
 ### How can I improve the bot to make it better for my particular group?
 
 `system_message.md` contains all the context the bot gets about the rules.  You can edit this file to add additional context, or to change the way the bot responds to certain rules.  The bot needs to be restarted for changes to take effect.
+
+## License
+
+ - Game system information and mechanics are licensed under the Open Game License (OPEN GAME LICENSE Version 1.0a).
+ - Any code or data not covered by the above licenses is licensed under the AGPLv3 license.

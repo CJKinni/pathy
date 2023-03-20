@@ -2,6 +2,8 @@
 
 Pathy is a Pathfinder 2e rules bot for Discord.
 
+Pathy was made using the [Plyable](https://github.com/cjkinni/plyable) python framework.
+
 ## Features
 
 - Knows many rules from books published before 2021.
@@ -17,6 +19,7 @@ Pathy is a Pathfinder 2e rules bot for Discord.
 3. Create a 'pathy' channel in your server for the bot to live in.  Currently, pathy will only talk in the #pathy channel; this will  become configurable in the future.
 4. Get an OpenAI API key, and set the `OPENAI_API_KEY` environment variable to it.
 5. Install the dependencies with `pip install -r requirements.txt`.
+6. Run `git submodule update --init --recursive` to download the pf2e data.
 6. Run the bot with `python pathy.py`.
 
 ## FAQ
